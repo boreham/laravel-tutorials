@@ -13,7 +13,7 @@
 <body>
 
 <h2>File upload drag and drop</h2>
-<h4>http://localhost:8000/dropzone</h4>
+<a href="http://localhost:8000/dropzone"><h4>http://localhost:8000/dropzone</h4></a>
 
 <!-- Bootstrap scripts -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

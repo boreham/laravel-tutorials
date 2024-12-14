@@ -13,7 +13,7 @@
 <body>
 
 <h2>File upload progress</h2>
-<h4>http://localhost:8000/file-upload</h4>
+<a href="http://localhost:8000/file-upload"><h4>http://localhost:8000/file-upload</h4></a>
 
 <!-- Bootstrap scripts -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
